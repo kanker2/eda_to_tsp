@@ -1,0 +1,23 @@
+name: edaspy-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - ipykernel
+  - matplotlib
+  - networkx
+  - numpy<2.0
+  - pandas
+  - pip
+  - python=3.10
+  - requests
+  - seaborn
+  - scikit-learn
+  - scipy
+  - tsplib95
+  - pip:
+    - EDAspy
+    - pgmpy
+    - pyarrow==9.0.0
+    - pybnesian==0.4.3
