@@ -132,9 +132,6 @@ Overall, the experience with `EDAspy` for TSP reinforces the understanding of ED
 
 ## Authors
 
-*   Pedro Larrañaga
-*   Alfonso Rodríguez-Patón
-*   Alfonso Mateos
 *   Kevin Oscar Arce Vera (kevin.avera@alumnos.upm.es)
 
 **MUIA - Máster Universitario en Inteligencia Artificial**
